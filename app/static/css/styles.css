@@ -1,0 +1,73 @@
+.reg{
+    padding: 20px;
+}
+.account-img {
+    height: 250px;
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+  }
+  .landing{
+      margin-top: 2%;
+  }
+  .blog-img{
+    height: 80px;
+    width: 80px;
+    
+    margin-bottom: 16px;
+  }
+  #usern{
+      margin-left: 20px;
+  }
+  #form,#profileupdate{
+      display: none;
+  }
+  .cardquote{
+      background-color:rgba(116, 116, 116, 0.786);
+      padding: 3%;
+  }
+  #submit{
+      background-color: green;
+      border-radius: 5px;
+  }
+  #profbutton,#ref,#subs{
+    border-radius: 5px;  
+  }
+  .navbarbg{
+background: hsla(29, 100%, 50%, 1);
+/* 
+background: linear-gradient(90deg, hsla(29, 100%, 50%, 1) 0%, hsla(32, 100%, 50%, 1) 0.1%, hsla(35, 100%, 50%, 1) 0.2%, hsla(38, 100%, 50%, 1) 0.3%, hsla(40, 100%, 50%, 1) 0.4%, hsla(43, 100%, 50%, 1) 0.5%, hsla(46, 100%, 50%, 1) 0.6%, hsla(49, 100%, 50%, 1) 0.7%, hsla(52, 100%, 50%, 1) 0.8%, hsla(55, 100%, 50%, 1) 0.9%);
+
+background: -moz-linear-gradient(90deg, hsla(29, 100%, 50%, 1) 0%, hsla(32, 100%, 50%, 1) 0.1%, hsla(35, 100%, 50%, 1) 0.2%, hsla(38, 100%, 50%, 1) 0.3%, hsla(40, 100%, 50%, 1) 0.4%, hsla(43, 100%, 50%, 1) 0.5%, hsla(46, 100%, 50%, 1) 0.6%, hsla(49, 100%, 50%, 1) 0.7%, hsla(52, 100%, 50%, 1) 0.8%, hsla(55, 100%, 50%, 1) 0.9%);
+
+background: -webkit-linear-gradient(90deg, hsla(29, 100%, 50%, 1) 0%, hsla(32, 100%, 50%, 1) 0.1%, hsla(35, 100%, 50%, 1) 0.2%, hsla(38, 100%, 50%, 1) 0.3%, hsla(40, 100%, 50%, 1) 0.4%, hsla(43, 100%, 50%, 1) 0.5%, hsla(46, 100%, 50%, 1) 0.6%, hsla(49, 100%, 50%, 1) 0.7%, hsla(52, 100%, 50%, 1) 0.8%, hsla(55, 100%, 50%, 1) 0.9%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ff7b00", endColorstr="#ff8800", GradientType=1 );   */
+}
+  body{
+    color: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    font-family: 'Prompt', sans-serif;  
+  }
+  .bg{
+      background-color: rgba(255, 255, 255, 0.924);
+      padding: 4px;
+      color: black;
+      border-radius: 6px;
+  }
+  h1,h4{
+    font-family: 'El Messiri', sans-serif;
+  }
+  .black{
+      color: black;
+  }
+#modalComment{
+    border-radius: 5px;
+}
+.singleblog{
+    background-color: rgba(255, 255, 255, 0.924);  
+    color: black;
+}
